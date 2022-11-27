@@ -1,0 +1,1 @@
+This project is designed to create a tribal list for the original occupants, where known, and the full chain of transfers to the first white occupants and the status of such claims, whether they've already been settled or were never a problem because the transfer was legitimate and not stolen. 
