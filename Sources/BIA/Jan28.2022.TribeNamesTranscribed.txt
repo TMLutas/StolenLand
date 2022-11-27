@@ -117,82 +117,639 @@ Koi Nation of Northern California [previously listed as Lower Lake Rancheria, Ca
 Kootenai Tribe of Idaho
 La Jolla Band of Luiseno Indians, California [previously listed as La Jolla Band of Luiseno Mission Indians of the La Jolla Reservation] 
 
-La Posta Band of Diegueno Mission Indians
-of the La Posta Indian Reservation,
-California
-Lac Courte Oreilles Band of Lake Superior
-Chippewa Indians of Wisconsin
-Lac du Flambeau Band of Lake Superior
-Chippewa Indians of the Lac du Flambeau
-Reservation of Wisconsin
-Lac Vieux Desert Band of Lake Superior
-Chippewa Indians of Michigan
-Las Vegas Tribe of Paiute Indians of the Las
-Vegas Indian Colony, Nevada
-Little River Band of Ottawa Indians,
-Michigan
-Little Shell Tribe of Chippewa Indians of
-Montana
-Little Traverse Bay Bands of Odawa Indians,
-Michigan
-Lone Pine Paiute-Shoshone Tribe [previously
-listed as Paiute-Shoshone Indians of the
-Lone Pine Community of the Lone Pine
-Reservation, California]
-Los Coyotes Band of Cahuilla and Cupeno
-Indians, California [previously listed as Los
-Coyotes Band of Cahuilla & Cupeno
-Indians of the Los Coyotes Reservation]
-Lovelock Paiute Tribe of the Lovelock Indian
-Colony, Nevada
-Lower Brule Sioux Tribe of the Lower Brule
-Reservation, South Dakota
-Lower Elwha Tribal Community [previously
-listed as Lower Elwha Tribal Community
-of the Lower Elwha Reservation,
-Washington]
-Lower Sioux Indian Community in the State
-of Minnesota
-Lummi Tribe of the Lummi Reservation
-Lytton Rancheria of California
-Makah Indian Tribe of the Makah Indian
-Reservation
-Manchester Band of Pomo Indians of the
-Manchester Rancheria, California
-[previously listed as Manchester Band of
-Pomo Indians of the Manchester-Point
-Arena Rancheria, California]
-Manzanita Band of Diegueno Mission Indians
-of the Manzanita Reservation, California
-Mashantucket Pequot Indian Tribe
-[previously listed as Mashantucket Pequot
-Tribe of Connecticut]
-Mashpee Wampanoag Tribe [previously listed
-as Mashpee Wampanoag Indian Tribal
-Council, Inc.]
-Match-e-be-nash-she-wish Band of
-Pottawatomi Indians of Michigan
-Mechoopda Indian Tribe of Chico Rancheria,
-California
+La Posta Band of Diegueno Mission Indians of the La Posta Indian Reservation, California
+Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin
+Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin
+Lac Vieux Desert Band of Lake Superior Chippewa Indians of Michigan
+Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada
+Little River Band of Ottawa Indians, Michigan
+Little Shell Tribe of Chippewa Indians of Montana
+Little Traverse Bay Bands of Odawa Indians, Michigan
+Lone Pine Paiute-Shoshone Tribe [previously listed as Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California]
+Los Coyotes Band of Cahuilla and Cupeno Indians, California [previously listed as Los Coyotes Band of Cahuilla & Cupeno Indians of the Los Coyotes Reservation]
+Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada
+Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota
+Lower Elwha Tribal Community [previously listed as Lower Elwha Tribal Community of the Lower Elwha Reservation, Washington]
+Lower Sioux Indian Community in the State of Minnesota Lummi Tribe of the Lummi Reservation
+Lytton Rancheria of California Makah Indian Tribe of the Makah Indian Reservation
+Manchester Band of Pomo Indians of the Manchester Rancheria, California [previously listed as Manchester Band of Pomo Indians of the Manchester-Point Arena Rancheria, California]
+Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California
+Mashantucket Pequot Indian Tribe [previously listed as Mashantucket Pequot Tribe of Connecticut]
+Mashpee Wampanoag Tribe [previously listed as Mashpee Wampanoag Indian Tribal Council, Inc.]
+Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan
+Mechoopda Indian Tribe of Chico Rancheria, California
 Menominee Indian Tribe of Wisconsin
-Mesa Grande Band of Diegueno Mission
-Indians of the Mesa Grande Reservation,
-California
-Mescalero Apache Tribe of the Mescalero
-Reservation, New Mexico
+Mesa Grande Band of Diegueno Mission Indians of the Mesa Grande Reservation, California
+Mescalero Apache Tribe of the Mescalero Reservation, New Mexico
 Miami Tribe of Oklahoma
 Miccosukee Tribe of Indians
-Middletown Rancheria of Pomo Indians of
+Middletown Rancheria of Pomo Indians of California
+Mi’kmaq Nation [previously listed as Aroostook Band of Micmacs]
+Minnesota Chippewa Tribe, Minnesota (Six component reservations: Bois Forte Band (Nett Lake); Fond du Lac Band; Grand Portage Band; Leech Lake Band; Mille Lacs Band; White Earth Band) 
+Mississippi Band of Choctaw Indians
+Moapa Band of Paiute Indians of the Moapa
+River Indian Reservation, Nevada
+Modoc Nation [previously listed as The Modoc Tribe of Oklahoma]
+Mohegan Tribe of Indians of Connecticut [previously listed as Mohegan Indian Tribe of Connecticut]
+Monacan Indian Nation
+Mooretown Rancheria of Maidu Indians of California
+Morongo Band of Mission Indians, California [previously listed as Morongo Band of Cahuilla Mission Indians of the Morongo Reservation]
+Muckleshoot Indian Tribe [previously listed as Muckleshoot Indian Tribe of the Muckleshoot Reservation, Washington]
+Nansemond Indian Nation [previously listed as Nansemond Indian Tribe]
+Narragansett Indian Tribe
+Navajo Nation, Arizona, New Mexico, & Utah
+Nez Perce Tribe [previously listed as Nez Perce Tribe of Idaho]
+Nisqually Indian Tribe [previously listed as Nisqually Indian Tribe of the Nisqually Reservation, Washington]
+Nooksack Indian Tribe
+Northern Arapaho Tribe of the Wind River
+Reservation, Wyoming [previously listed as Arapaho Tribe of the Wind River Reservation, Wyoming]
+Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation, Montana
+Northfork Rancheria of Mono Indians of California
+Northwestern Band of the Shoshone Nation [previously listed as Northwestern Band of Shoshoni]
+Nottawaseppi Huron Band of the Potawatomi, Michigan [previously listed as Huron Potawatomi, Inc.]
+Oglala Sioux Tribe [previously listed as Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota]
+Ohkay Owingeh, New Mexico [previously listed as Pueblo of San Juan]
+Omaha Tribe of Nebraska
+Oneida Indian Nation [previously listed as Oneida Nation of New York]
+Oneida Nation [previously listed as Oneida Tribe of Indians of Wisconsin]
+Onondaga Nation
+Otoe-Missouria Tribe of Indians, Oklahoma
+Ottawa Tribe of Oklahoma
+Paiute Indian Tribe of Utah (Cedar Band of Paiutes, Kanosh Band of Paiutes, Koosharem Band of Paiutes, Indian Peaks Band of Paiutes, and Shivwits Band of Paiutes) [previously listed as Paiute Indian Tribe of Utah (Cedar City Band of Paiutes, Kanosh Band of Paiutes, Koosharem Band of Paiutes, Indian Peaks Band of Paiutes, and Shivwits Band of Paiutes)]
+Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada
+Pala Band of Mission Indians [previously listed as Pala Band of Luiseno Mission Indians of the Pala Reservation, California]
+Pamunkey Indian Tribe
+Pascua Yaqui Tribe of Arizona
+Paskenta Band of Nomlaki Indians of California
+Passamaquoddy Tribe
+Pauma Band of Luiseno Mission Indians of the Pauma & Yuima Reservation, California
+
+Pawnee Nation of Oklahoma
+Pechanga Band of Indians [previously listed
+as Pechanga Band of Luiseno Mission
+Indians of the Pechanga Reservation,
+California]
+Penobscot Nation [previously listed as
+Penobscot Tribe of Maine]
+Peoria Tribe of Indians of Oklahoma
+Picayune Rancheria of Chukchansi Indians of
 California
-Mi’kmaq Nation [previously listed as
-Aroostook Band of Micmacs]
-Minnesota Chippewa Tribe, Minnesota (Six
-component reservations: Bois Forte Band
-(Nett Lake); Fond du Lac Band; Grand
-Portage Band; Leech Lake Band; Mille Lacs
-Band; White Earth Band) 
+Pinoleville Pomo Nation, California
+[previously listed as Pinoleville Rancheria
+of Pomo Indians of California]
+Pit River Tribe, California (includes XL
+Ranch, Big Bend, Likely, Lookout,
+Montgomery Creek, and Roaring Creek
+Rancherias)
+Poarch Band of Creek Indians [previously
+listed as Poarch Band of Creeks]
+Pokagon Band of Potawatomi Indians,
+Michigan and Indiana
+Ponca Tribe of Indians of Oklahoma
+Ponca Tribe of Nebraska
+Port Gamble S’Klallam Tribe [previously
+listed as Port Gamble Band of S’Klallam
+Indians]
+Potter Valley Tribe, California
+Prairie Band Potawatomi Nation [previously
+listed as Prairie Band of Potawatomi
+Nation, Kansas]
+Prairie Island Indian Community in the State
+of Minnesota
+Pueblo of Acoma, New Mexico
+Pueblo of Cochiti, New Mexico
+Pueblo of Isleta, New Mexico
+Pueblo of Jemez, New Mexico
+Pueblo of Laguna, New Mexico
+Pueblo of Nambe, New Mexico
+Pueblo of Picuris, New Mexico
+Pueblo of Pojoaque, New Mexico
+Pueblo of San Felipe, New Mexico
+Pueblo of San Ildefonso, New Mexico
+Pueblo of Sandia, New Mexico
+Pueblo of Santa Ana, New Mexico
+Pueblo of Santa Clara, New Mexico
+Pueblo of Taos, New Mexico
+Pueblo of Tesuque, New Mexico
+Pueblo of Zia, New Mexico
+Puyallup Tribe of the Puyallup Reservation
+Pyramid Lake Paiute Tribe of the Pyramid
+Lake Reservation, Nevada
+Quapaw Nation [previously listed as The
+Quapaw Tribe of Indians]
+Quartz Valley Indian Community of the
+Quartz Valley Reservation of California
+Quechan Tribe of the Fort Yuma Indian
+Reservation, California & Arizona
+Quileute Tribe of the Quileute Reservation
+Quinault Indian Nation [previously listed as
+Quinault Tribe of the Quinault
+Reservation, Washington]
+Ramona Band of Cahuilla, California
+[previously listed as Ramona Band or
+Village of Cahuilla Mission Indians of
+California]
+Rappahannock Tribe, Inc.
+Red Cliff Band of Lake Superior Chippewa
+Indians of Wisconsin
+Red Lake Band of Chippewa Indians,
+Minnesota
+Redding Rancheria, California
+Redwood Valley or Little River Band of Pomo
+Indians of the Redwood Valley Rancheria
+California [previously listed as Redwood
+Valley Rancheria of Pomo Indians of
+California]
+Reno-Sparks Indian Colony, Nevada
+Resighini Rancheria, California
+Rincon Band of Luiseno Mission Indians of
+Rincon Reservation, California
+Robinson Rancheria [previously listed as
+Robinson Rancheria Band of Pomo Indians,
+California]
+Rosebud Sioux Tribe of the Rosebud Indian
+Reservation, South Dakota
+Round Valley Indian Tribes, Round Valley
+Reservation, California [previously listed as
+Round Valley Indian Tribes of the Round
+Valley Reservation, California]
+Sac & Fox Nation of Missouri in Kansas and
+Nebraska
+Sac & Fox Nation, Oklahoma
+Sac & Fox Tribe of the Mississippi in Iowa
+Saginaw Chippewa Indian Tribe of Michigan
+Saint Regis Mohawk Tribe [previously listed
+as St. Regis Band of Mohawk Indians or
+New York]
+Salt River Pima-Maricopa Indian Community
+of the Salt River Reservation, Arizona
+Samish Indian Nation [previously listed as
+Samish Indian Tribe, Washington]
+San Carlos Apache Tribe of the San Carlos
+Reservation, Arizona
+San Juan Southern Paiute Tribe of Arizona
+San Pasqual Band of Diegueno Mission
+Indians of California
+Santa Rosa Band of Cahuilla Indians,
+California [previously listed as Santa Rosa
+Band of Cahuilla Mission Indians of the
+Santa Rosa Reservation]
+Santa Rosa Indian Community of the Santa
+Rosa Rancheria, California
+Santa Ynez Band of Chumash Mission
+Indians of the Santa Ynez Reservation,
+California
+Santee Sioux Nation, Nebraska
+Santo Domingo Pueblo [previously listed as
+Kewa Pueblo, New Mexico, and as Pueblo
+of Santo Domingo]
+Sauk-Suiattle Indian Tribe
+Sault Ste. Marie Tribe of Chippewa Indians,
+Michigan
+Scotts Valley Band of Pomo Indians of
+California
+Seminole Tribe of Florida [previously listed
+as Seminole Tribe of Florida (Dania, Big
+Cypress, Brighton, Hollywood, & Tampa
+Reservations)]
+Seneca Nation of Indians [previously listed as
+Seneca Nation of New York]
+Seneca–Cayuga Nation [previously listed as
+Seneca-Cayuga Tribe of Oklahoma]
+Shakopee Mdewakanton Sioux Community
+of Minnesota
+Shawnee Tribe
+Sherwood Valley Rancheria of Pomo Indians
+of California
+Shingle Springs Band of Miwok Indians,
+Shingle Springs Rancheria (Verona Tract),
+California
+Shinnecock Indian Nation
+Shoalwater Bay Indian Tribe of the
+Shoalwater Bay Indian Reservation
+[previously listed as Shoalwater Bay Tribe
+of the Shoalwater Bay Indian Reservation,
+Washington]
+Shoshone-Bannock Tribes of the Fort Hall
+Reservation
+Shoshone-Paiute Tribes of the Duck Valley
+Reservation, Nevada
+Sisseton-Wahpeton Oyate of the Lake
+Traverse Reservation, South Dakota
+Skokomish Indian Tribe [previously listed as
+Skokomish Indian Tribe of the Skokomish
+Reservation, Washington]
+Skull Valley Band of Goshute Indians of Utah
+Snoqualmie Indian Tribe [previously listed as
+Snoqualmie Tribe, Washington]
+Soboba Band of Luiseno Indians, California
+Sokaogon Chippewa Community, Wisconsin
+Southern Ute Indian Tribe of the Southern
+Ute Reservation, Colorado
+Spirit Lake Tribe, North Dakota
+Spokane Tribe of the Spokane Reservation
+Squaxin Island Tribe of the Squaxin Island
+Reservation
+St. Croix Chippewa Indians of Wisconsin
+Standing Rock Sioux Tribe of North & South
+Dakota
+Stillaguamish Tribe of Indians of Washington
+[previously listed as Stillaguamish Tribe of
+Washington]
+Stockbridge Munsee Community, Wisconsin
+Summit Lake Paiute Tribe of Nevada
+Suquamish Indian Tribe of the Port Madison
+Reservation
+Susanville Indian Rancheria, California
+Swinomish Indian Tribal Community
+[previously listed as Swinomish Indians of
+the Swinomish Reservation of Washington]
+Sycuan Band of the Kumeyaay Nation
+Table Mountain Rancheria [previously listed
+as Table Mountain Rancheria of California]
+Tejon Indian Tribe
+Te-Moak Tribe of Western Shoshone Indians
+of Nevada (Four constituent bands: Battle
+Mountain Band; Elko Band; South Fork
+Band; and Wells Band)
+The Chickasaw Nation
+The Choctaw Nation of Oklahoma
+The Muscogee (Creek) Nation
+The Osage Nation [previously listed as Osage
+Tribe]
+The Seminole Nation of Oklahoma
+Thlopthlocco Tribal Town
+Three Affiliated Tribes of the Fort Berthold
+Reservation, North Dakota
+Timbisha Shoshone Tribe [previously listed
+as Death Valley Timbi-sha Shoshone]
+Tohono O’odham Nation of Arizona
+Tolowa Dee-ni’ Nation [previously listed as
+Smith River Rancheria, California]
+Tonawanda Band of Seneca [previously listed
+as Tonawanda Band of Seneca Indians of
+New York]
+Tonkawa Tribe of Indians of Oklahoma
+Tonto Apache Tribe of Arizona
+Torres Martinez Desert Cahuilla Indians,
+California [previously listed as TorresMartinez Band of Cahuilla Mission Indians
+of California]
+Tulalip Tribes of Washington [previously
+listed as Tulalip Tribes of the Tulalip
+Reservation, Washington]
+Tule River Indian Tribe of the Tule River
+Reservation, California
+Tunica-Biloxi Indian Tribe
+Tuolumne Band of Me-Wuk Indians of the
+Tuolumne Rancheria of California
+Turtle Mountain Band of Chippewa Indians
+of North Dakota
+Tuscarora Nation
+Twenty-Nine Palms Band of Mission Indians
+of California
+United Auburn Indian Community of the
+Auburn Rancheria of California
+United Keetoowah Band of Cherokee Indians
+in Oklahoma 
 
+Upper Mattaponi Tribe
+Upper Sioux Community, Minnesota
+Upper Skagit Indian Tribe
+Ute Indian Tribe of the Uintah & Ouray
+Reservation, Utah
+Ute Mountain Ute Tribe [previously listed as
+Ute Mountain Tribe of the Ute Mountain
+Reservation, Colorado, New Mexico, &
+Utah]
+Utu Utu Gwaitu Paiute Tribe of the Benton
+Paiute Reservation, California
+Walker River Paiute Tribe of the Walker
+River Reservation, Nevada
+Wampanoag Tribe of Gay Head (Aquinnah)
+Washoe Tribe of Nevada & California (Carson
+Colony, Dresslerville Colony, Woodfords
+Community, Stewart Community, &
+Washoe Ranches)
+White Mountain Apache Tribe of the Fort
+Apache Reservation, Arizona
+Wichita and Affiliated Tribes (Wichita,
+Keechi, Waco, & Tawakonie), Oklahoma
+Wilton Rancheria, California
+Winnebago Tribe of Nebraska
+Winnemucca Indian Colony of Nevada
+Wiyot Tribe, California [previously listed as
+Table Bluff Reservation—Wiyot Tribe]
+Wyandotte Nation
+Yankton Sioux Tribe of South Dakota
+Yavapai-Apache Nation of the Camp Verde
+Indian Reservation, Arizona
+Yavapai-Prescott Indian Tribe [previously
+listed as Yavapai-Prescott Tribe of the
+Yavapai Reservation, Arizona]
+Yerington Paiute Tribe of the Yerington
+Colony & Campbell Ranch, Nevada
+Yocha Dehe Wintun Nation, California
+[previously listed as Rumsey Indian
+Rancheria of Wintun Indians of California]
+Yomba Shoshone Tribe of the Yomba
+Reservation, Nevada
+Ysleta del Sur Pueblo [previously listed as
+Ysleta Del Sur Pueblo of Texas]
+Yuhaaviatam of San Manuel Nation
+[previously listed as San Manuel Band of
+Mission Indians, California]
+Yurok Tribe of the Yurok Reservation,
+California
+Zuni Tribe of the Zuni Reservation, New
+Mexico 
 
+Native Entities Within the State of
+Alaska Recognized by and Eligible To
+Receive Services From the United
+States Bureau of Indian Affairs
+[227 Federally Recognized Alaska
+Native Villages/Tribes Within the State
+of Alaska]
+Agdaagux Tribe of King Cove
+Akiachak Native Community
+Akiak Native Community
+Alatna Village
+Algaaciq Native Village (St. Mary’s)
+Allakaket Village
+Alutiiq Tribe of Old Harbor [previously listed
+as Native Village of Old Harbor]
+Angoon Community Association
+Anvik Village
+Arctic Village (See Native Village of Venetie
+Tribal Government in CLARIFICATION
+section)
+Asa’carsarmiut Tribe
+Beaver Village
+Birch Creek Tribe
+Central Council of the Tlingit & Haida Indian
+Tribes
+Chalkyitsik Village
+Cheesh-Na Tribe [previously listed as Native
+Village of Chistochina]
+Chevak Native Village
+Chickaloon Native Village
+Chignik Bay Tribal Council [previously listed
+as Native Village of Chignik]
+Chignik Lake Village
+Chilkat Indian Village (Klukwan)
+Chilkoot Indian Association (Haines)
+Chinik Eskimo Community (Golovin)
+Chuloonawick Native Village
+Circle Native Community
+Craig Tribal Association [previously listed as
+Craig Community Association]
+Curyung Tribal Council
+Douglas Indian Association
+Egegik Village
+Eklutna Native Village
+Emmonak Village
+Evansville Village (aka Bettles Field)
+Galena Village (aka Louden Village)
+Gulkana Village Council [previously listed as
+Gulkana Village]
+Healy Lake Village
+Holy Cross Tribe [previously listed as Holy
+Cross Village]
+Hoonah Indian Association
+Hughes Village
+Huslia Village
+Hydaburg Cooperative Association
+Igiugig Village
+Inupiat Community of the Arctic Slope
+Iqugmiut Traditional Council [previously
+listed as Iqurmuit Traditional Council]
+Ivanof Bay Tribe [previously listed as Ivanoff
+Bay Tribe]
+Kaguyak Village
+Kaktovik Village (aka Barter Island)
+Kasigluk Traditional Elders Council
+Kenaitze Indian Tribe
+Ketchikan Indian Community [previously
+listed as Ketchikan Indian Corporation]
+King Island Native Community
+King Salmon Tribe
+Klawock Cooperative Association
+Knik Tribe
+Kokhanok Village
+Koyukuk Native Village
+Levelock Village
+Lime Village
+Manley Hot Springs Village
+Manokotak Village
+McGrath Native Village
+Mentasta Traditional Council
+Metlakatla Indian Community, Annette
+Island Reserve
+Naknek Native Village
+Native Village of Afognak
+Native Village of Akhiok
+Native Village of Akutan
+Native Village of Aleknagik
+Native Village of Ambler
+Native Village of Atka
+Native Village of Atqasuk [previously listed
+as Atqasuk Village (Atkasook)]
+Native Village of Barrow Inupiat Traditional
+Government
+Native Village of Belkofski
+Native Village of Brevig Mission
+Native Village of Buckland
+Native Village of Cantwell
+Native Village of Chenega (aka Chanega)
+Native Village of Chignik Lagoon
+Native Village of Chitina
+Native Village of Chuathbaluk (Russian
+Mission, Kuskokwim)
+Native Village of Council
+Native Village of Deering
+Native Village of Diomede (aka Inalik)
+Native Village of Eagle
+Native Village of Eek
+Native Village of Ekuk
+Native Village of Ekwok [previously listed as
+Ekwok Village]
+Native Village of Elim
+Native Village of Eyak (Cordova)
+Native Village of False Pass
+Native Village of Fort Yukon
+Native Village of Gakona
+Native Village of Gambell
+Native Village of Georgetown
+Native Village of Goodnews Bay
+Native Village of Hamilton
+Native Village of Hooper Bay
+Native Village of Kanatak
+Native Village of Karluk
+Native Village of Kiana
+Native Village of Kipnuk
+Native Village of Kivalina
+Native Village of Kluti Kaah (aka Copper
+Center)
+Native Village of Kobuk
+Native Village of Kongiganak
+Native Village of Kotzebue
+Native Village of Koyuk
+Native Village of Kwigillingok
+Native Village of Kwinhagak (aka Quinhagak)
+Native Village of Larsen Bay
+Native Village of Marshall (aka Fortuna
+Ledge)
+Native Village of Mary’s Igloo
+Native Village of Mekoryuk
+Native Village of Minto
+Native Village of Nanwalek (aka English Bay)
+Native Village of Napaimute
+Native Village of Napakiak
+Native Village of Napaskiak
+Native Village of Nelson Lagoon
+Native Village of Nightmute
+Native Village of Nikolski
+Native Village of Noatak
+Native Village of Nuiqsut (aka Nooiksut)
+Native Village of Nunam Iqua [previously
+listed as Native Village of Sheldon’s Point]
+Native Village of Nunapitchuk
+Native Village of Ouzinkie
+Native Village of Paimiut
+Native Village of Perryville
+Native Village of Pilot Point
+Native Village of Point Hope
+Native Village of Point Lay
+Native Village of Port Graham
+Native Village of Port Heiden
+Native Village of Port Lions
+Native Village of Ruby
+Native Village of Saint Michael
+Native Village of Savoonga
+Native Village of Scammon Bay
+Native Village of Selawik
+Native Village of Shaktoolik
+Native Village of Shishmaref
+Native Village of Shungnak
+Native Village of Stevens
+Native Village of Tanacross
+Native Village of Tanana
+Native Village of Tatitlek
+Native Village of Tazlina
+Native Village of Teller
+Native Village of Tetlin
+
+Native Village of Tuntutuliak
+Native Village of Tununak
+Native Village of Tyonek
+Native Village of Unalakleet
+Native Village of Unga
+Native Village of Wales
+Native Village of White Mountain
+Nenana Native Association
+New Koliganek Village Council
+New Stuyahok Village
+Newhalen Village
+Newtok Village
+Nikolai Village
+Ninilchik Village
+Nome Eskimo Community
+Nondalton Village
+Noorvik Native Community
+Northway Village
+Nulato Village
+Nunakauyarmiut Tribe
+Organized Village of Grayling (aka
+Holikachuk)
+Organized Village of Kake
+Organized Village of Kasaan
+Organized Village of Kwethluk
+Organized Village of Saxman
+Orutsararmiut Traditional Native Council
+[previously listed as Orutsararmuit Native
+Village (aka Bethel)]
+Oscarville Traditional Village
+Pauloff Harbor Village
+Pedro Bay Village
+Petersburg Indian Association
+Pilot Station Traditional Village
+Pitka’s Point Traditional Council [previously
+listed as Native Village of Pitka’s Point]
+Platinum Traditional Village
+Portage Creek Village (aka Ohgsenakale)
+Qagan Tayagungin Tribe of Sand Point
+[previously listed as Qagan Tayagungin
+Tribe of Sand Point Village]
+Qawalangin Tribe of Unalaska
+Rampart Village
+Saint George Island (See Pribilof Islands
+Aleut Communities of St. Paul & St. George
+Islands in Clarification section)
+Saint Paul Island (See Pribilof Islands Aleut
+Communities of St. Paul & St. George
+Islands in Clarification section)
+Salamatof Tribe [previously listed as Village
+of Salamatoff]
+Seldovia Village Tribe
+Shageluk Native Village
+Sitka Tribe of Alaska
+Skagway Village
+South Naknek Village
+Stebbins Community Association
+Sun’aq Tribe of Kodiak [previously listed as
+Shoonaq’ Tribe of Kodiak]
+Takotna Village
+Tangirnaq Native Village [previously listed as
+Lesnoi Village (aka Woody Island)]
+Telida Village
+Traditional Village of Togiak
+Tuluksak Native Community
+Twin Hills Village
+Ugashik Village
+Umkumiut Native Village [previously listed
+as Umkumiute Native Village]
+Village of Alakanuk
+Village of Anaktuvuk Pass
+Village of Aniak
+Village of Atmautluak
+Village of Bill Moore’s Slough
+Village of Chefornak
+Village of Clarks Point
+Village of Crooked Creek
+Village of Dot Lake
+Village of Iliamna
+Village of Kalskag
+Village of Kaltag
+Village of Kotlik
+Village of Lower Kalskag
+Village of Ohogamiut
+Village of Red Devil
+Village of Sleetmute
+Village of Solomon
+Village of Stony River
+Village of Venetie (See Native Village of
+Venetie Tribal Government)
+Village of Wainwright
+Wrangell Cooperative Association
+Yakutat Tlingit Tribe
+Yupiit of Andreafski
+
+Clarification
+Native Village of Venetie Tribal Government
+(Arctic Village and Village of Venetie)—is
+not included in the official count of 574
+federally recognized Tribes but is
+recognized as an entity authorized to act on
+behalf of Artic Village and Village of
+Venetie by the BIA.
+Pribilof Islands Aleut Communities of St.
+Paul & St. George Islands (Saint George
+Island and Saint Paul Island)—is not
+included in the official count of 574
+federally recognized Tribes but is
+recognized as an entity authorized to act on
+behalf of Saint George Island and Saint
+Paul Island.
 
 
 
