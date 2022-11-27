@@ -1,2 +1,6 @@
 11.26.2022
-https://www.federalregister.gov/documents/2022/01/28/2022-01789/indian-entities-recognized-by-and-eligible-to-receive-services-from-the-united-states-bureau-of
+live: 
+https://www.govinfo.gov/content/pkg/FR-2022-01-28/pdf/2022-01789.pdf
+archive: 
+https://web.archive.org/web/20221111194943/https://www.govinfo.gov/content/pkg/FR-2022-01-28/pdf/2022-01789.pdf
+
